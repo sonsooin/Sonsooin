@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=250&section=header&text=SuinSon&fontSize=70)
 ### Hi there 👋
 
-<!--
-**sonsooin/Sonsooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+ ✨ _special_ ✨ 
+ 
+  <img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=white"/>
+
 
 Here are some ideas to get you started:
 
