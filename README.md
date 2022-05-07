@@ -44,7 +44,7 @@ My hometown is Busan, Korea.
 
 
 <div align=center><h3>💌 Social 💌</h3></div>
-<img src =https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
+<a href="https://sonsooin.github.io/" target="_blank"><img src =https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white></a>
 <a href="mailto:suin2638@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
 </div> 
 
