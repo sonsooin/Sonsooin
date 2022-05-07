@@ -40,8 +40,7 @@ My hometown is Busan, Korea.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suin&&show_icons=true&theme=default )
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suin2638)](https://solved.ac/suin2638/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suin&layout=compact)](https://github.com/sonsooin/sonsooin)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suin&layout=compact)]
 
 
 
