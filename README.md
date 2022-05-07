@@ -5,6 +5,10 @@
 😄 Back-End Developer
 <br>
 Currently, I am focusing on app development.
+<br>
+My major is Industrial Management Engineering.
+<br>
+My hometown is Busan, Korea.
 <div>
 <br>
  
@@ -34,9 +38,13 @@ Currently, I am focusing on app development.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suin&&show_icons=true&theme=default )
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suin2638)](https://solved.ac/suin2638/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <div align=center><h3>💌 Social 💌</h3></div>
-<img src =https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white>
+<img src =https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
 <a href="mailto:suin2638@gmail.com" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
 </div> 
 
