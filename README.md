@@ -39,7 +39,7 @@ Currently, I am focusing on app development.
 
 <div align=center><h3>💌 Social 💌</h3></div>
 <img src =https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white>
-<img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://suin2638@gmail.com"/>
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 </div> 
 
  
