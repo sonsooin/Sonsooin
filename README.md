@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFACD&height=250&section=header&text=SuinSon&fontSize=70)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=b8dff8&height=100&section=footer)
+
