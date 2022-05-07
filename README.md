@@ -9,15 +9,12 @@ Currently, I am focusing on app development.
 <br>
  
  
-<div align=center><h3>📋 Languages</h3></div>
+<div align=center><h3>📋 Languages & Databases</h3></div>
 <div align=center> 
 <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white> 
 <img src=https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-</div>
- 
-<div align=center><h3>💾 Databases</h3></div>
-<div align=center> 
+<br> 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src=https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white>
@@ -36,6 +33,7 @@ Currently, I am focusing on app development.
 <br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suin&&show_icons=true&theme=default )
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suin2638)](https://solved.ac/suin2638/)
 
 <div align=center><h3>💌 Social 💌</h3></div>
 <img src =https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white>
